@@ -1,3 +1,6 @@
+// Product Financial Reporting
+// Challenge from Google Gemini AI
+
 let inventory = [
     {
         name: 'Kemeja Katun',
