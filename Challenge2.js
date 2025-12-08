@@ -29,7 +29,7 @@ let inventory = [
     }
 ];
 function buyItems(number, purchaseAmount) {
-    if (inventory[number] === undefined ) {
+    if (inventory[number] === undefined) {
         return 'Item not found';
     } else if (inventory[number].stock < purchaseAmount) {
         return 'Stock not sufficient';
@@ -49,4 +49,4 @@ function addStock(itemNum, howMuch) {
 
 
 console.log(buyItems(1, 2))
-console.log(addStock(1,3))
+console.log(addStock(1, 3))
