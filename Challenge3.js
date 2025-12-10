@@ -1,3 +1,6 @@
+// Graphic Designer Team Analyisis
+// Challenge from Google Gemini AI
+
 const projectTeam = [
     {
         designerName: 'Andy',
