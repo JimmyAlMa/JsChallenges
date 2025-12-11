@@ -6,7 +6,7 @@ const surveyResponses = [
         respondentID: 'U1001',
         region: 'Jakarta',
         score: 9, // Skala 1-10
-        purchaseFrequency: 4, // Jumlah pembelian per bulan
+        purchaseFrequency: 4,
         isLoyaltyMember: true
     },
     {
@@ -20,7 +20,7 @@ const surveyResponses = [
         respondentID: 'U1003',
         region: 'Jakarta',
         score: 10,
-        purchaseFrequency: 8, // Frekuensi tertinggi
+        purchaseFrequency: 8,
         isLoyaltyMember: true
     },
     {
